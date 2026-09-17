@@ -1,0 +1,10 @@
+def two_sum(x: int, y: int):
+    print(x + y)
+
+def three_sum(x: int, y: int, z: int):
+    print(x + y + z)
+
+two_sum(7, 10)
+three_sum(3, 5, 8)
+two_sum(10, 9)
+three_sum(5, 14, 6)
